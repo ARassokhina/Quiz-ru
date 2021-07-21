@@ -13,7 +13,7 @@ let avaliableQuestions = [];
 
 let questions = [
     {
-        question: 'В каком году отменили крепосное право в России?',
+        question: 'В каком году отменили крепостное право в России?',
         choice1 : '1917',
         choice2 : '1876',
         choice3 : '1861',
