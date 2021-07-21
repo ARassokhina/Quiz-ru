@@ -13,11 +13,11 @@ let avaliableQuestions = [];
 
 let questions = [
     {
-        question: 'Сколько будет 2 + 2?',
-        choice1 : '2',
-        choice2 : '3',
-        choice3 : '4',
-        choice4 : '5',
+        question: 'В каком году отменили крепосное право в России?',
+        choice1 : '1917',
+        choice2 : '1876',
+        choice3 : '1861',
+        choice4 : '1858',
         answer: 3,
     },
     {
@@ -29,19 +29,19 @@ let questions = [
         answer: 4,
     },
     {
-        question: 'Сколько будет 20 + 20?',
-        choice1 : '20',
-        choice2 : '30',
-        choice3 : '40',
-        choice4 : '50',
+        question: 'Кто написал роман "Война и мир"?',
+        choice1 : 'Ф.М.Достоевский',
+        choice2 : 'Н.В.Гоголь',
+        choice3 : 'Л.Н.Толстой',
+        choice4 : 'А.С.Пушкин',
         answer: 3,
     },
     {
-        question: 'Сколько будет 21 + 2?',
-        choice1 : '22',
-        choice2 : '23',
-        choice3 : '24',
-        choice4 : '25',
+        question: 'Какая из формул отражает второй закон Ньютона?',
+        choice1 : 'S = v * t',
+        choice2 : 'F = m * a',
+        choice3 : 'p = m * v',
+        choice4 : 'U = I * R',
         answer: 2,
     }
 ]
